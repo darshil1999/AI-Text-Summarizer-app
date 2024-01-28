@@ -1,0 +1,22 @@
+{
+  "name": "ai-text-summarizer-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshil1999/AI-Text-Summarizer-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshil1999/AI-Text-Summarizer-app/issues"
+  },
+  "homepage": "https://github.com/darshil1999/AI-Text-Summarizer-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
